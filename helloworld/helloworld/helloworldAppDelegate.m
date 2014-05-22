@@ -6,7 +6,6 @@
 //  Copyright (c) 2014 deemsys. All rights reserved.
 //
 //
-//second commit
 #import "helloworldAppDelegate.h"
 
 @implementation helloworldAppDelegate
